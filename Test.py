@@ -1,12 +1,6 @@
 import matplotlib.pyplot as plt
-#import matplotlib
-#matplotlib.use('TkAgg')
-import numpy as np
 import pandas as pd
-import operator
-import csv
 
-print("Working1")
 
 df = pd.read_csv('serial.csv',usecols=[0,1,2,3,4])      # Reads the file
 
@@ -27,25 +21,25 @@ for x in range (1,34):                                                     # Sep
     counter = counter +1
 
 received = []
-missed  = []
+missed = []
 node_id = []
-for x in range (1,34):
+for x in range(1,34):
     current_file = open("node%d.csv"%x,"r")
     current_text = current_file.read()
 
     rcv1 = current_text.find("rcv")  # gives start position of quoted word +4 for rcv= in rcv=47
-    if  rcv1!=-1:
+    if rcv1 != -1:
         node_id.append(x)
         rcv1 = rcv1 + 4
         rcv2 = current_text.find("miss") - 1
-        rcv  = current_text[rcv1:rcv2]
+        rcv = current_text[rcv1:rcv2]
         received.append(int(rcv))
 
     miss1 = current_text.find("miss")   # This will give the start position of the word (if it exists, otherwise -1)
     if miss1 != -1:
         miss1 = miss1 + 5
         miss2 = current_text.find("boot") - 1
-        miss  = current_text[miss1:miss2]
+        miss = current_text[miss1:miss2]
         missed.append(int(miss))
 
 print(received)
@@ -55,7 +49,7 @@ print(node_id)
 
 reliability_success = []
 reliability_failure = []
-for x in range (0,23):
+for x in range(0,23):
     A = received[x]
     B = missed[x]
     C = A + B
@@ -66,16 +60,12 @@ for x in range (0,23):
 print(reliability_success)
 print(reliability_failure)
 
-
-
-
-
 A = reliability_success
 B = reliability_failure
 
 X = range(23)
 
-#bar(x, height, width, bottom, *, align='center', **kwargs)
+# bar(x, height, width, bottom, *, align='center', **kwargs)
 plt.bar(X, A, 0.4, color = 'g')
 plt.bar(X, B, 0.4,  color = 'r', bottom = A)
 
