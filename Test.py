@@ -23,6 +23,10 @@ for x in range (1,34):                                                     # Sep
 received = []
 missed = []
 node_id = []
+
+total_received = 0.0
+total_missed = 0.0
+
 for x in range(1,34):
     current_file = open("node%d.csv"%x,"r")
     current_text = current_file.read()
@@ -33,32 +37,39 @@ for x in range(1,34):
         rcv1 = rcv1 + 4
         rcv2 = current_text.find("miss") - 1
         rcv = current_text[rcv1:rcv2]
-        received.append(int(rcv))
+        total_received = total_received + float(rcv)
+        received.append(float(rcv))
 
     miss1 = current_text.find("miss")   # This will give the start position of the word (if it exists, otherwise -1)
     if miss1 != -1:
         miss1 = miss1 + 5
         miss2 = current_text.find("boot") - 1
         miss = current_text[miss1:miss2]
-        missed.append(int(miss))
+        total_missed = total_missed + float(miss)
+        missed.append(float(miss))
 
 print(received)
 print(missed)
 print(node_id)
+print(total_received,"R  M",total_missed,total_received*100/(total_missed+total_received))
 
 
+
+A=0.0
+B=0.0
+C=0.0
 reliability_success = []
 reliability_failure = []
-for x in range(0,23):
+for x in range(0,23):                   # for conversion to percentage
     A = received[x]
     B = missed[x]
     C = A + B
-    A = 100 * A / C
-    B = 100 * B / C
+    A = 100.0 * A / C
+    B = 100.0 * B / C
     reliability_success.append(A)
     reliability_failure.append(B)
 print(reliability_success)
-print(reliability_failure)
+print(reliability_failure)              # ////////////////////////////
 
 A = reliability_success
 B = reliability_failure
@@ -66,14 +77,35 @@ B = reliability_failure
 X = range(23)
 
 # bar(x, height, width, bottom, *, align='center', **kwargs)
-plt.bar(X, A, 0.4, color = 'g')
-plt.bar(X, B, 0.4,  color = 'r', bottom = A)
+plt.figure(1)
+p1=plt.bar(X, A, 0.4, color = 'g')
+p2=plt.bar(X, B, 0.4,  color = 'r', bottom = A)
 
 plt.ylabel('Reliability (in Percentage %)')
 plt.xlabel('Node ID')
 plt.title('Reliability of Different Nodes')
 plt.xticks(X, node_id)
+plt.legend((p1,p2),('Received Packets','Missed Packets'),loc='upper right', bbox_to_anchor=(1,1.15))
+
+
+
+plt.figure(2)
+
+labels = 'Received', 'Missed'
+sizes = [total_received*100/(total_missed+total_received),100.0-(total_received*100/(total_missed+total_received))]
+colors = ['green', 'red']
+explode = (0.1, 0)  # explode 1st slice
+
+# Plot
+plt.pie(sizes, explode=explode, labels=labels, colors=colors,
+        autopct='%1.1f%%', shadow=True, startangle=140)
+
+plt.axis('equal')
+
+
+
 plt.show()
+
 
 
 
