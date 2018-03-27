@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 
-df = pd.read_csv('serial.csv',usecols=[0,1,2,3,4])      # Reads the file only col1-5
+df = pd.read_csv('serial.csv',usecols=[0,1,2,3,4])      # Reads the file only column 0 to column 4
 
 
 df = df.sort_values('node_id')                           # Sort data by node_id
