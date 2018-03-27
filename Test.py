@@ -56,6 +56,7 @@ print(total_received,"R  M",total_missed,total_received*100/(total_missed+total_
 
 
 A=0.0
+
 B=0.0
 C=0.0
 reliability_success = []
@@ -99,7 +100,8 @@ explode = (0.1, 0)  # explode 1st slice
 # Plot
 plt.pie(sizes, explode=explode, labels=labels, colors=colors,
         autopct='%1.1f%%', shadow=True, startangle=140)
-
+plt.title('Overall Reliability')
+plt.legend((p1,p2),('Received Packets','Missed Packets'),loc='upper right', bbox_to_anchor=(1,1.15))
 plt.axis('equal')
 
 
