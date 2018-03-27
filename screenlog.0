@@ -1,0 +1,763 @@
+
+
+2    34 INFO: BOOTSTRAP
+
+2    37 INFO: rcv=4 miss=4 boot=5 per=7571 m_hop=8 snr=93dBm avg_snr=90dBm
+2    37 INFO: rcv=48 miss=4 boot=5 per=7535 m_hop=8 snr=88dBm avg_snr=90dBm
+2    37 INFO: BOOTSTRAP
+
+2    37 INFO: rcv=49 miss=5 boot=6 per=7534 m_hop=8 snr=88dBm avg_snr=90dBm
+2    38 INFO: rcv=50 miss=5 boot=6 per=7500 m_hop=8 snr=88dBm avg_snr=90dBm
+2    38 INFO: rcv=51 miss=5 boot=6 per=7467 m_hop=8 snr=87dBm avg_snr=90dBm
+2    38 INFO: rcv=52 miss=5 boot=6 per=7434 m_hop=8 snr=91dBm avg_snr=90dBm
+2    38 INFO: rcv=53 miss=5 boot=6 per=7401 m_hop=8 snr=90dBm avg_snr=90dBm
+2    38 INFO: rcv=54 miss=5 boot=6 per=7369 m_hop=8 snr=91dBm avg_snr=90dBm
+2    38 INFO: rcv=55 miss=5 boot=6 per=7337 m_hop=8 snr=88dBm avg_snr=90dBm
+2    38 INFO: rcv=56 miss=5 boot=6 per=7305 m_hop=8 snr=90dBm avg_snr=90dBm
+2    38 INFO: rcv=57 miss=5 boot=6 per=7273 m_hop=8 snr=92dBm avg_snr=90dBm
+2    38 INFO: rcv=58 miss=5 boot=6 per=7242 m_hop=8 snr=91dBm avg_snr=90dBm
+2    38 INFO: rcv=59 miss=5 boot=6 per=7211 m_hop=8 snr=90dBm avg_snr=90dBm
+2    39 INFO: rcv=60 miss=5 boot=6 per=7180 m_hop=8 snr=90dBm avg_snr=90dBm
+2    39 INFO: rcv=61 miss=5 boot=6 per=7149 m_hop=8 snr=91dBm avg_snr=90dBm
+2    39 INFO: rcv=62 miss=5 boot=6 per=7119 m_hop=8 snr=89dBm avg_snr=90dBm
+2    39 INFO: rcv=63 miss=5 boot=6 per=7101 m_hop=8 snr=89dBm avg_snr=90dBm
+2    39 INFO: rcv=64 miss=5 boot=6 per=7072 m_hop=8 snr=86dBm avg_snr=90dBm
+2    39 INFO: rcv=65 miss=5 boot=6 per=7079 m_hop=8 snr=92dBm avg_snr=90dBm
+2    39 INFO: rcv=66 miss=5 boot=6 per=7050 m_hop=8 snr=88dBm avg_snr=90dBm
+2    39 INFO: rcv=67 miss=5 boot=6 per=7021 m_hop=8 snr=93dBm avg_snr=90dBm
+2    39 INFO: rcv=68 miss=5 boot=6 per=6992 m_hop=8 snr=88dBm avg_snr=90dBm
+2    39 INFO: rcv=69 miss=5 boot=6 per=6964 m_hop=8 snr=88dBm avg_snr=90dBm
+2    40 INFO: rcv=70 miss=5 boot=6 per=6936 m_hop=8 snr=93dBm avg_snr=90dBm
+2    40 INFO: rcv=71 miss=5 boot=6 per=6908 m_hop=8 snr=92dBm avg_snr=90dBm
+2    40 INFO: rcv=72 miss=5 boot=6 per=6880 m_hop=8 snr=90dBm avg_snr=90dBm
+2    40 INFO: rcv=73 miss=5 boot=6 per=6853 m_hop=8 snr=88dBm avg_snr=90dBm
+2    40 INFO: rcv=74 miss=5 boot=6 per=6826 m_hop=8 snr=94dBm avg_snr=90dBm
+2    40 INFO: rcv=75 miss=5 boot=6 per=6799 m_hop=8 snr=93dBm avg_snr=90dBm
+2    40 INFO: rcv=76 miss=5 boot=6 per=6772 m_hop=8 snr=89dBm avg_snr=90dBm
+2    40 INFO: rcv=77 miss=5 boot=6 per=6746 m_hop=8 snr=94dBm avg_snr=90dBm
+2    40 INFO: rcv=78 miss=5 boot=6 per=6719 m_hop=8 snr=91dBm avg_snr=90dBm
+2    40 INFO: rcv=79 miss=5 boot=6 per=6706 m_hop=8 snr=93dBm avg_snr=90dBm
+2    41 INFO: rcv=80 miss=5 boot=6 per=6680 m_hop=8 snr=90dBm avg_snr=90dBm
+2    41 INFO: rcv=81 miss=5 boot=6 per=6667 m_hop=8 snr=89dBm avg_snr=90dBm
+2    41 INFO: rcv=82 miss=5 boot=6 per=6654 m_hop=8 snr=90dBm avg_snr=90dBm
+2    41 INFO: rcv=83 miss=5 boot=6 per=6629 m_hop=8 snr=90dBm avg_snr=90dBm
+2    41 INFO: rcv=84 miss=5 boot=6 per=6604 m_hop=8 snr=89dBm avg_snr=90dBm
+2    41 INFO: rcv=85 miss=5 boot=6 per=6579 m_hop=8 snr=91dBm avg_snr=90dBm
+2    41 INFO: rcv=86 miss=5 boot=6 per=6555 m_hop=8 snr=94dBm avg_snr=90dBm
+2    41 INFO: rcv=87 miss=5 boot=6 per=6530 m_hop=8 snr=87dBm avg_snr=90dBm
+2    41 INFO: rcv=88 miss=5 boot=6 per=6506 m_hop=8 snr=87dBm avg_snr=90dBm
+2    41 INFO: rcv=89 miss=5 boot=6 per=6482 m_hop=8 snr=87dBm avg_snr=90dBm
+2    42 INFO: rcv=90 miss=5 boot=6 per=6458 m_hop=8 snr=91dBm avg_snr=90dBm
+2    42 INFO: rcv=91 miss=5 boot=6 per=6434 m_hop=8 snr=93dBm avg_snr=90dBm
+2    42 INFO: rcv=92 miss=5 boot=6 per=6411 m_hop=8 snr=86dBm avg_snr=90dBm
+2    42 INFO: rcv=93 miss=5 boot=6 per=6387 m_hop=8 snr=91dBm avg_snr=90dBm
+2    42 INFO: rcv=94 miss=5 boot=6 per=6364 m_hop=8 snr=94dBm avg_snr=90dBm
+2    42 INFO: rcv=95 miss=5 boot=6 per=6341 m_hop=8 snr=91dBm avg_snr=90dBm
+2    42 INFO: rcv=96 miss=5 boot=6 per=6318 m_hop=8 snr=88dBm avg_snr=90dBm
+2    42 INFO: rcv=97 miss=5 boot=6 per=6295 m_hop=8 snr=91dBm avg_snr=90dBm
+2    42 INFO: rcv=98 miss=5 boot=6 per=6273 m_hop=8 snr=85dBm avg_snr=90dBm
+2    42 INFO: rcv=99 miss=5 boot=6 per=6250 m_hop=8 snr=89dBm avg_snr=90dBm
+2    43 INFO: rcv=100 miss=5 boot=6 per=6228 m_hop=8 snr=89dBm avg_snr=90dBm
+2    43 INFO: rcv=101 miss=5 boot=6 per=6206 m_hop=8 snr=91dBm avg_snr=90dBm
+2    43 INFO: rcv=102 miss=5 boot=6 per=6184 m_hop=8 snr=87dBm avg_snr=90dBm
+2    43 INFO: rcv=103 miss=5 boot=6 per=6162 m_hop=8 snr=92dBm avg_snr=90dBm
+2    43 INFO: rcv=104 miss=5 boot=6 per=6154 m_hop=8 snr=91dBm avg_snr=90dBm
+2    43 INFO: rcv=105 miss=5 boot=6 per=6133 m_hop=8 snr=90dBm avg_snr=90dBm
+2    43 INFO: rcv=106 miss=5 boot=6 per=6112 m_hop=8 snr=89dBm avg_snr=90dBm
+2    43 INFO: rcv=107 miss=5 boot=6 per=6090 m_hop=8 snr=92dBm avg_snr=90dBm
+2    43 INFO: rcv=108 miss=5 boot=6 per=6069 m_hop=8 snr=90dBm avg_snr=90dBm
+2    43 INFO: rcv=109 miss=5 boot=6 per=6049 m_hop=8 snr=90dBm avg_snr=90dBm
+2    44 INFO: rcv=110 miss=5 boot=6 per=6028 m_hop=8 snr=90dBm avg_snr=90dBm
+2    44 INFO: rcv=111 miss=5 boot=6 per=6007 m_hop=8 snr=90dBm avg_snr=90dBm
+2    44 INFO: rcv=112 miss=5 boot=6 per=5987 m_hop=8 snr=94dBm avg_snr=90dBm
+2    44 INFO: rcv=113 miss=5 boot=6 per=5967 m_hop=8 snr=95dBm avg_snr=90dBm
+2    44 INFO: rcv=114 miss=5 boot=6 per=5946 m_hop=8 snr=89dBm avg_snr=90dBm
+2    44 INFO: rcv=115 miss=5 boot=6 per=5926 m_hop=8 snr=89dBm avg_snr=90dBm
+2    44 INFO: rcv=116 miss=5 boot=6 per=5907 m_hop=8 snr=92dBm avg_snr=90dBm
+2    44 INFO: rcv=117 miss=5 boot=6 per=5887 m_hop=8 snr=88dBm avg_snr=90dBm
+2    44 INFO: rcv=118 miss=5 boot=6 per=5867 m_hop=8 snr=87dBm avg_snr=90dBm
+2    44 INFO: rcv=119 miss=5 boot=6 per=5848 m_hop=8 snr=91dBm avg_snr=90dBm
+2    45 INFO: rcv=120 miss=5 boot=6 per=5828 m_hop=8 snr=93dBm avg_snr=90dBm
+2    45 INFO: rcv=121 miss=5 boot=6 per=5809 m_hop=8 snr=94dBm avg_snr=90dBm
+2    45 INFO: rcv=122 miss=5 boot=6 per=5790 m_hop=8 snr=91dBm avg_snr=90dBm
+2    45 INFO: rcv=123 miss=5 boot=6 per=5771 m_hop=8 snr=90dBm avg_snr=90dBm
+2    45 INFO: rcv=124 miss=5 boot=6 per=5752 m_hop=8 snr=97dBm avg_snr=90dBm
+2    45 INFO: rcv=125 miss=5 boot=6 per=5733 m_hop=8 snr=93dBm avg_snr=90dBm
+2    45 INFO: rcv=126 miss=5 boot=6 per=5715 m_hop=8 snr=90dBm avg_snr=90dBm
+2    45 INFO: rcv=127 miss=5 boot=6 per=5696 m_hop=8 snr=89dBm avg_snr=90dBm
+2    45 INFO: rcv=128 miss=5 boot=6 per=5678 m_hop=8 snr=89dBm avg_snr=90dBm
+2    45 INFO: rcv=129 miss=5 boot=6 per=5660 m_hop=8 snr=90dBm avg_snr=90dBm
+2    46 INFO: rcv=130 miss=5 boot=6 per=5642 m_hop=8 snr=92dBm avg_snr=90dBm
+2    46 INFO: rcv=131 miss=5 boot=6 per=5624 m_hop=8 snr=93dBm avg_snr=90dBm
+2    46 INFO: rcv=132 miss=5 boot=6 per=5606 m_hop=8 snr=93dBm avg_snr=90dBm
+2    46 INFO: rcv=133 miss=5 boot=6 per=5588 m_hop=8 snr=90dBm avg_snr=90dBm
+2    46 INFO: rcv=134 miss=5 boot=6 per=5570 m_hop=8 snr=90dBm avg_snr=90dBm
+2    46 INFO: rcv=135 miss=5 boot=6 per=5553 m_hop=8 snr=91dBm avg_snr=90dBm
+2    46 INFO: rcv=136 miss=5 boot=6 per=5535 m_hop=8 snr=90dBm avg_snr=90dBm
+2    46 INFO: rcv=137 miss=5 boot=6 per=5518 m_hop=8 snr=92dBm avg_snr=90dBm
+2    46 INFO: rcv=138 miss=5 boot=6 per=5500 m_hop=8 snr=92dBm avg_snr=90dBm
+2    46 INFO: rcv=139 miss=5 boot=6 per=5483 m_hop=8 snr=90dBm avg_snr=90dBm
+2    47 INFO: rcv=140 miss=5 boot=6 per=5466 m_hop=8 snr=91dBm avg_snr=90dBm
+2    47 INFO: rcv=141 miss=5 boot=6 per=5449 m_hop=8 snr=89dBm avg_snr=90dBm
+2    47 INFO: rcv=142 miss=5 boot=6 per=5433 m_hop=8 snr=91dBm avg_snr=90dBm
+2    47 INFO: rcv=143 miss=5 boot=6 per=5416 m_hop=8 snr=91dBm avg_snr=90dBm
+2    47 INFO: rcv=144 miss=5 boot=6 per=5399 m_hop=8 snr=92dBm avg_snr=90dBm
+2    47 INFO: rcv=145 miss=5 boot=6 per=5383 m_hop=8 snr=91dBm avg_snr=90dBm
+2    47 INFO: rcv=146 miss=5 boot=6 per=5366 m_hop=8 snr=92dBm avg_snr=90dBm
+2    47 INFO: rcv=147 miss=5 boot=6 per=5350 m_hop=8 snr=89dBm avg_snr=90dBm
+2    47 INFO: rcv=148 miss=5 boot=6 per=5334 m_hop=8 snr=90dBm avg_snr=90dBm
+2    47 INFO: rcv=149 miss=5 boot=6 per=5318 m_hop=8 snr=88dBm avg_snr=90dBm
+2    48 INFO: rcv=150 miss=5 boot=6 per=5302 m_hop=8 snr=89dBm avg_snr=90dBm
+2    48 INFO: rcv=151 miss=5 boot=6 per=5286 m_hop=8 snr=89dBm avg_snr=90dBm
+2    48 INFO: rcv=152 miss=5 boot=6 per=5270 m_hop=8 snr=91dBm avg_snr=90dBm
+2    48 INFO: rcv=153 miss=5 boot=6 per=5254 m_hop=8 snr=90dBm avg_snr=90dBm
+2    48 INFO: rcv=154 miss=5 boot=6 per=5239 m_hop=8 snr=94dBm avg_snr=90dBm
+2    48 INFO: rcv=155 miss=5 boot=6 per=5223 m_hop=8 snr=85dBm avg_snr=90dBm
+
+1  3596 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3596 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3596 INFO: packet sent, rssi=0dBm last_rssi=-15dBm avg=-27dBm
+1  3596 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3596 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3597 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3597 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3597 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3597 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3597 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3597 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3597 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3597 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3597 INFO: packet sent, rssi=0dBm last_rssi=-15dBm avg=-27dBm
+1  3597 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3598 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3598 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3598 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3598 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3598 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3598 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3598 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3598 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3598 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3598 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3599 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3599 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3599 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3599 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3599 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3599 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3599 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3599 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3599 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3599 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3600 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3600 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3600 INFO: packet sent, rssi=0dBm last_rssi=-15dBm avg=-27dBm
+1  3600 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3600 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3600 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3600 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3600 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3600 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3600 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3601 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3601 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3601 INFO: packet sent, rssi=0dBm last_rssi=-15dBm avg=-27dBm
+1  3601 INFO: packet sent, rssi=0dBm last_rssi=-15dBm avg=-27dBm
+1  3601 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3601 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3601 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3601 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3601 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3601 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3602 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3602 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3602 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3602 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3602 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3602 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3602 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3602 INFO: packet sent, rssi=0dBm last_rssi=-15dBm avg=-27dBm
+1  3602 INFO: packet sent, rssi=0dBm last_rssi=-15dBm avg=-27dBm
+1  3602 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3603 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3603 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3603 INFO: packet sent, rssi=0dBm last_rssi=-15dBm avg=-27dBm
+1  3603 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3603 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3603 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3603 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3603 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3603 INFO: packet sent, rssi=0dBm last_rssi=-15dBm avg=-27dBm
+1  3603 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3604 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3604 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3604 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3604 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3604 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3604 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+1  3604 INFO: packet sent, rssi=-15dBm last_rssi=-15dBm avg=-27dBm
+
+1  3725 INFO: packet sent, rssi=-13dBm last_rssi=-13dBm avg=-26dBm
+1  3725 INFO: packet sent, rssi=0dBm last_rssi=-13dBm avg=-26dBm
+1  3725 INFO: packet sent, rssi=-13dBm last_rssi=-13dBm avg=-26dBm
+1  3725 INFO: packet sent, rssi=-13dBm last_rssi=-13dBm avg=-26dBm
+1  3725 INFO: packet sent, rssi=-13dBm last_rssi=-13dBm avg=-26dBm
+1  3725 INFO: packet sent, rssi=0dBm last_rssi=-13dBm avg=-26dBm
+1  3725 INFO: packet sent, rssi=0dBm last_rssi=-13dBm avg=-26dBm
+1  3725 INFO: packet sent, rssi=-13dBm last_rssi=-13dBm avg=-26dBm
+1  3725 INFO: packet sent, rssi=0dBm last_rssi=-13dBm avg=-26dBm
+1  3725 INFO: packet sent, rssi=-13dBm last_rssi=-13dBm avg=-26dBm
+1  3726 INFO: packet sent, rssi=-19dBm last_rssi=-19dBm avg=-26dBm
+1  3726 INFO: packet sent, rssi=-13dBm last_rssi=-13dBm avg=-26dBm
+1  3726 INFO: packet sent, rssi=-13dBm last_rssi=-13dBm avg=-26dBm
+1  3726 INFO: packet sent, rssi=0dBm last_rssi=-13dBm avg=-26dBm
+1  3726 INFO: packet sent, rssi=-13dBm last_rssi=-13dBm avg=-26dBm
+1  3726 INFO: packet sent, rssi=-13dBm last_rssi=-13dBm avg=-26dBm
+1  3726 INFO: packet sent, rssi=-16dBm last_rssi=-13dBm avg=-26dBm
+1  3726 INFO: packet sent, rssi=0dBm last_rssi=-13dBm avg=-26dBm
+1  3726 INFO: packet sent, rssi=0dBm last_rssi=-13dBm avg=-26dBm
+1  3726 INFO: packet sent, rssi=0dBm last_rssi=-13dBm avg=-26dBm
+1  3727 INFO: packet sent, rssi=-13dBm last_rssi=-13dBm avg=-26dBm
+1  3727 INFO: packet sent, rssi=0dBm last_rssi=-13dBm avg=-26dBm
+1  3727 INFO: packet sent, rssi=0dBm last_rssi=-13dBm avg=-26dBm
+1  3727 INFO: packet sent, rssi=-13dBm last_rssi=-13dBm avg=-26dBm
+1  3727 INFO: packet sent, rssi=0dBm last_rssi=-13dBm avg=-26dBm
+1  3727 INFO: packet sent, rssi=0dBm last_rssi=-13dBm avg=-26dBm
+1  3727 INFO: packet sent, rssi=-13dBm last_rssi=-13dBm avg=-26dBm
+1  3727 INFO: packet sent, rssi=-14dBm last_rssi=-13dBm avg=-26dBm
+1  3727 INFO: packet sent, rssi=-17dBm last_rssi=-17dBm avg=-26dBm
+1  3727 INFO: packet sent, rssi=0dBm last_rssi=-17dBm avg=-26dBm
+1  3728 INFO: packet sent, rssi=0dBm last_rssi=-17dBm avg=-26dBm
+1  3728 INFO: packet sent, rssi=0dBm last_rssi=-17dBm avg=-26dBm
+\001    39 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    40 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    40 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    40 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    40 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    40 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    40 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    40 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    40 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    40 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    40 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    41 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    41 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    41 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    41 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    41 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    41 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    41 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    41 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    41 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    41 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    42 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    42 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    42 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    42 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    42 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    42 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    42 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    42 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    42 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    42 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    43 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    43 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    43 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    43 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    43 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    43 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    43 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    43 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    43 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    43 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    44 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    44 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    44 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    44 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    44 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    44 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    44 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    44 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+
+
+Reset Source: nRST
+MCU: CC430F5147
+Firmware: 0.00 Jan 16 2018
+RF module configured (pwr=0dBm, ch=5/869.0MHz, len=63b)
+Contiki 2.7 started. Node ID is set to 1.
+Bolt initialized (message size 48b)
+Starting 'Application Task'
+Starting 'Debug Print Task'
+ buffer_size=4x79b stack_size=504b
+1     1 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     1 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     1 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     1 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     1 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     1 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     1 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     1 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     1 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     1 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     2 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     2 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     2 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     2 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     2 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     2 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     2 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     2 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     2 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     2 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     3 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     3 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     3 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     3 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     3 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     3 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     3 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     3 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     3 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     3 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     4 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     4 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     4 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     4 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     4 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     4 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     4 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     4 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     4 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     4 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     5 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     5 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     5 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     5 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     5 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     5 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     5 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     5 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     5 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     5 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     6 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     6 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     6 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     6 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     6 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     6 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     6 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     6 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     6 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     6 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     7 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     7 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     7 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     7 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     7 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     7 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     7 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     7 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     7 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     7 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     8 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     8 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     8 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     8 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     8 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     8 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     8 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     8 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     8 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     8 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     9 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     9 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     9 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     9 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     9 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     9 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     9 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     9 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     9 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1     9 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    10 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    10 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    10 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    10 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    10 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    10 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    10 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    10 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    10 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    10 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    11 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    11 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    11 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    11 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    11 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    11 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    11 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    11 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    11 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    11 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    12 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    12 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    12 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    12 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    12 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    12 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    12 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    12 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    12 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    12 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    13 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    13 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    13 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    13 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    13 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    13 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    13 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    13 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    13 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    13 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    14 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    14 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    14 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    14 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    14 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    14 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    14 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    14 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    14 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    14 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    15 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    15 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    15 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    15 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    15 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    15 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    15 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    15 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    15 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    15 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    16 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    16 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    16 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    16 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    16 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    16 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    16 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    16 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    16 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    16 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    17 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    17 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    17 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    17 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    17 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    17 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    17 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    17 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    17 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    17 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    18 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    18 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    18 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    18 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    18 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    18 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    18 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    18 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    18 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    18 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    19 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    19 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    19 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    19 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    19 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    19 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    19 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    19 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    19 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    19 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    20 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    20 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    20 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    20 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    20 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    20 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    20 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+1    20 INFO: packet sent, rssi=0dBm last_rssi=-74dBm avg=0dBm
+
+
+Reset Source: nRST
+MCU: CC430F5147
+Firmware: 0.00 Jan 16 2018
+RF module configured (pwr=0dBm, ch=5/869.0MHz, len=63b)
+Contiki 2.7 started. Node ID is set to 2.
+Bolt initialized (message size 48b)
+Starting 'Application Task'
+Starting 'Debug Print Task'
+ buffer_size=4x79b stack_size=504b
+2     1 INFO: BOOTSTRAP
+
+2     1 INFO: rcv=1 miss=0 boot=1 per=0 m_hop=0 snr=78dBm avg_snr=78dBm
+2     1 INFO: rcv=2 miss=0 boot=1 per=0 m_hop=0 snr=82dBm avg_snr=80dBm
+2     1 INFO: rcv=3 miss=0 boot=1 per=0 m_hop=0 snr=83dBm avg_snr=81dBm
+2     1 INFO: rcv=4 miss=0 boot=1 per=0 m_hop=0 snr=78dBm avg_snr=80dBm
+2     1 INFO: rcv=5 miss=0 boot=1 per=0 m_hop=0 snr=80dBm avg_snr=80dBm
+2     1 INFO: rcv=6 miss=0 boot=1 per=0 m_hop=0 snr=81dBm avg_snr=80dBm
+2     1 INFO: rcv=7 miss=0 boot=1 per=0 m_hop=0 snr=81dBm avg_snr=80dBm
+2     1 INFO: rcv=8 miss=0 boot=1 per=0 m_hop=0 snr=82dBm avg_snr=80dBm
+2     1 INFO: rcv=9 miss=0 boot=1 per=0 m_hop=0 snr=77dBm avg_snr=80dBm
+2     2 INFO: rcv=10 miss=0 boot=1 per=0 m_hop=0 snr=78dBm avg_snr=80dBm
+2     2 INFO: rcv=11 miss=0 boot=1 per=0 m_hop=0 snr=82dBm avg_snr=80dBm
+2     2 INFO: rcv=12 miss=0 boot=1 per=0 m_hop=0 snr=81dBm avg_snr=80dBm
+2     2 INFO: rcv=13 miss=0 boot=1 per=0 m_hop=0 snr=79dBm avg_snr=80dBm
+2     2 INFO: rcv=14 miss=0 boot=1 per=0 m_hop=0 snr=86dBm avg_snr=80dBm
+2     2 INFO: rcv=15 miss=0 boot=1 per=0 m_hop=0 snr=78dBm avg_snr=80dBm
+2     2 INFO: rcv=16 miss=0 boot=1 per=0 m_hop=0 snr=77dBm avg_snr=80dBm
+2     2 INFO: rcv=17 miss=0 boot=1 per=0 m_hop=0 snr=84dBm avg_snr=80dBm
+2     2 INFO: rcv=18 miss=0 boot=1 per=0 m_hop=0 snr=82dBm avg_snr=80dBm
+2     2 INFO: rcv=19 miss=0 boot=1 per=0 m_hop=0 snr=82dBm avg_snr=80dBm
+2     3 INFO: rcv=20 miss=0 boot=1 per=0 m_hop=0 snr=80dBm avg_snr=80dBm
+2     3 INFO: rcv=21 miss=0 boot=1 per=0 m_hop=0 snr=82dBm avg_snr=80dBm
+2     3 INFO: rcv=22 miss=0 boot=1 per=0 m_hop=0 snr=82dBm avg_snr=80dBm
+2     3 INFO: rcv=23 miss=0 boot=1 per=0 m_hop=0 snr=82dBm avg_snr=80dBm
+2     3 INFO: rcv=24 miss=0 boot=1 per=0 m_hop=0 snr=82dBm avg_snr=80dBm
+2     3 INFO: rcv=25 miss=0 boot=1 per=0 m_hop=0 snr=81dBm avg_snr=80dBm
+2     3 INFO: rcv=26 miss=0 boot=1 per=0 m_hop=0 snr=80dBm avg_snr=80dBm
+2     3 INFO: rcv=27 miss=0 boot=1 per=0 m_hop=0 snr=82dBm avg_snr=80dBm
+2     3 INFO: rcv=28 miss=0 boot=1 per=0 m_hop=0 snr=82dBm avg_snr=80dBm
+2     3 INFO: rcv=29 miss=0 boot=1 per=0 m_hop=0 snr=84dBm avg_snr=80dBm
+2     4 INFO: rcv=30 miss=0 boot=1 per=0 m_hop=0 snr=83dBm avg_snr=81dBm
+2     4 INFO: rcv=31 miss=0 boot=1 per=0 m_hop=0 snr=80dBm avg_snr=81dBm
+2     4 INFO: rcv=32 miss=0 boot=1 per=0 m_hop=0 snr=79dBm avg_snr=80dBm
+2     4 INFO: rcv=33 miss=0 boot=1 per=0 m_hop=0 snr=83dBm avg_snr=81dBm
+2     4 INFO: rcv=34 miss=0 boot=1 per=0 m_hop=0 snr=81dBm avg_snr=81dBm
+2     4 INFO: rcv=35 miss=0 boot=1 per=0 m_hop=0 snr=80dBm avg_snr=80dBm
+2     4 INFO: rcv=36 miss=0 boot=1 per=0 m_hop=0 snr=80dBm avg_snr=80dBm
+2     4 INFO: rcv=37 miss=0 boot=1 per=0 m_hop=0 snr=77dBm avg_snr=80dBm
+2     4 INFO: rcv=38 miss=0 boot=1 per=0 m_hop=0 snr=85dBm avg_snr=80dBm
+2     4 INFO: rcv=39 miss=0 boot=1 per=0 m_hop=0 snr=80dBm avg_snr=80dBm
+2     5 INFO: rcv=40 miss=0 boot=1 per=0 m_hop=0 snr=83dBm avg_snr=80dBm
+2     5 INFO: rcv=41 miss=0 boot=1 per=0 m_hop=0 snr=82dBm avg_snr=81dBm
+2     5 INFO: rcv=42 miss=0 boot=1 per=0 m_hop=0 snr=78dBm avg_snr=80dBm
+2     5 INFO: rcv=43 miss=0 boot=1 per=0 m_hop=0 snr=80dBm avg_snr=80dBm
+2     5 INFO: rcv=44 miss=0 boot=1 per=0 m_hop=0 snr=79dBm avg_snr=80dBm
+2     5 INFO: rcv=45 miss=0 boot=1 per=0 m_hop=0 snr=82dBm avg_snr=80dBm
+2     5 INFO: rcv=46 miss=0 boot=1 per=0 m_hop=0 snr=81dBm avg_snr=80dBm
+2     5 INFO: rcv=47 miss=0 boot=1 per=0 m_hop=0 snr=82dBm avg_snr=80dBm
+2     5 INFO: rcv=48 miss=0 boot=1 per=0 m_hop=0 snr=80dBm avg_snr=80dBm
+2     5 INFO: rcv=49 miss=0 boot=1 per=0 m_hop=0 snr=81dBm avg_snr=80dBm
+2     6 INFO: rcv=50 miss=0 boot=1 per=0 m_hop=0 snr=84dBm avg_snr=80dBm
+2     6 INFO: rcv=51 miss=0 boot=1 per=0 m_hop=0 snr=83dBm avg_snr=81dBm
+2     6 INFO: rcv=52 miss=0 boot=1 per=0 m_hop=0 snr=80dBm avg_snr=80dBm
+2     6 INFO: rcv=53 miss=0 boot=1 per=0 m_hop=0 snr=80dBm avg_snr=80dBm
+2     6 INFO: rcv=54 miss=0 boot=1 per=0 m_hop=0 snr=80dBm avg_snr=80dBm
+2     6 INFO: rcv=55 miss=0 boot=1 per=0 m_hop=0 snr=82dBm avg_snr=80dBm
+2     6 INFO: rcv=56 miss=0 boot=1 per=0 m_hop=0 snr=80dBm avg_snr=80dBm
+2     6 INFO: rcv=57 miss=0 boot=1 per=0 m_hop=0 snr=78dBm avg_snr=80dBm
+2     6 INFO: rcv=58 miss=0 boot=1 per=0 m_hop=0 snr=81dBm avg_snr=80dBm
+2     6 INFO: rcv=59 miss=0 boot=1 per=0 m_hop=0 snr=79dBm avg_snr=80dBm
+2     7 INFO: rcv=60 miss=0 boot=1 per=0 m_hop=0 snr=81dBm avg_snr=80dBm
+2     7 INFO: rcv=61 miss=0 boot=1 per=0 m_hop=0 snr=79dBm avg_snr=80dBm
+2     7 INFO: rcv=62 miss=0 boot=1 per=0 m_hop=0 snr=87dBm avg_snr=80dBm
+2     7 INFO: rcv=63 miss=0 boot=1 per=0 m_hop=0 snr=80dBm avg_snr=80dBm
+2     7 INFO: rcv=64 miss=0 boot=1 per=0 m_hop=0 snr=78dBm avg_snr=80dBm
+2     7 INFO: rcv=65 miss=0 boot=1 per=0 m_hop=0 snr=83dBm avg_snr=80dBm
+2     7 INFO: rcv=66 miss=0 boot=1 per=0 m_hop=0 snr=79dBm avg_snr=80dBm
+2     7 INFO: rcv=67 miss=0 boot=1 per=0 m_hop=0 snr=78dBm avg_snr=80dBm
+2     7 INFO: rcv=68 miss=0 boot=1 per=0 m_hop=0 snr=82dBm avg_snr=80dBm
+2     7 INFO: rcv=69 miss=0 boot=1 per=0 m_hop=0 snr=80dBm avg_snr=80dBm
+2     8 INFO: rcv=70 miss=0 boot=1 per=0 m_hop=0 snr=82dBm avg_snr=80dBm
+2     8 INFO: rcv=71 miss=0 boot=1 per=0 m_hop=0 snr=77dBm avg_snr=80dBm
+2     8 INFO: rcv=72 miss=0 boot=1 per=0 m_hop=0 snr=80dBm avg_snr=80dBm
+2     8 INFO: rcv=73 miss=0 boot=1 per=0 m_hop=0 snr=77dBm avg_snr=80dBm
+2     8 INFO: rcv=74 miss=0 boot=1 per=0 m_hop=0 snr=79dBm avg_snr=80dBm
+2     8 INFO: rcv=75 miss=0 boot=1 per=0 m_hop=0 snr=81dBm avg_snr=80dBm
+2     8 INFO: rcv=76 miss=0 boot=1 per=0 m_hop=0 snr=79dBm avg_snr=80dBm
+2     8 INFO: rcv=77 miss=0 boot=1 per=0 m_hop=0 snr=79dBm avg_snr=80dBm
+2     8 INFO: rcv=78 miss=0 boot=1 per=0 m_hop=0 snr=85dBm avg_snr=80dBm
+2     8 INFO: rcv=79 miss=0 boot=1 per=0 m_hop=0 snr=80dBm avg_snr=80dBm
+2     9 INFO: rcv=80 miss=0 boot=1 per=0 m_hop=0 snr=76dBm avg_snr=80dBm
+2     9 INFO: rcv=81 miss=0 boot=1 per=0 m_hop=0 snr=85dBm avg_snr=80dBm
+2     9 INFO: rcv=82 miss=0 boot=1 per=0 m_hop=0 snr=79dBm avg_snr=80dBm
+2     9 INFO: rcv=83 miss=0 boot=1 per=0 m_hop=0 snr=84dBm avg_snr=80dBm
+2     9 INFO: rcv=84 miss=0 boot=1 per=0 m_hop=0 snr=81dBm avg_snr=80dBm
+2     9 INFO: rcv=85 miss=0 boot=1 per=0 m_hop=0 snr=82dBm avg_snr=80dBm
+2     9 INFO: rcv=86 miss=0 boot=1 per=0 m_hop=0 snr=81dBm avg_snr=80dBm
+2     9 INFO: rcv=87 miss=0 boot=1 per=0 m_hop=0 snr=81dBm avg_snr=80dBm
+2     9 INFO: rcv=88 miss=0 boot=1 per=0 m_hop=0 snr=81dBm avg_snr=80dBm
+2     9 INFO: rcv=89 miss=0 boot=1 per=0 m_hop=0 snr=79dBm avg_snr=80dBm
+2    10 INFO: rcv=90 miss=0 boot=1 per=0 m_hop=0 snr=80dBm avg_snr=80dBm
+2    10 INFO: rcv=91 miss=0 boot=1 per=0 m_hop=0 snr=81dBm avg_snr=80dBm
+2    10 INFO: rcv=92 miss=0 boot=1 per=0 m_hop=0 snr=78dBm avg_snr=80dBm
+2    10 INFO: rcv=93 miss=0 boot=1 per=0 m_hop=0 snr=78dBm avg_snr=80dBm
+2    10 INFO: rcv=94 miss=0 boot=1 per=0 m_hop=0 snr=78dBm avg_snr=80dBm
+2    10 INFO: rcv=95 miss=0 boot=1 per=0 m_hop=0 snr=81dBm avg_snr=80dBm
+2    10 INFO: rcv=96 miss=0 boot=1 per=0 m_hop=0 snr=81dBm avg_snr=80dBm
+2    10 INFO: rcv=97 miss=0 boot=1 per=0 m_hop=0 snr=83dBm avg_snr=80dBm
+2    10 INFO: rcv=98 miss=0 boot=1 per=0 m_hop=0 snr=82dBm avg_snr=80dBm
+2    10 INFO: rcv=99 miss=0 boot=1 per=0 m_hop=0 snr=82dBm avg_snr=80dBm
+2    11 INFO: rcv=100 miss=0 boot=1 per=0 m_hop=0 snr=78dBm avg_snr=80dBm
+2    11 INFO: rcv=101 miss=0 boot=1 per=0 m_hop=0 snr=82dBm avg_snr=80dBm
+2    11 INFO: rcv=102 miss=0 boot=1 per=0 m_hop=0 snr=82dBm avg_snr=80dBm
+2    11 INFO: rcv=103 miss=0 boot=1 per=0 m_hop=0 snr=75dBm avg_snr=80dBm
+2    11 INFO: rcv=104 miss=0 boot=1 per=0 m_hop=0 snr=81dBm avg_snr=80dBm
+2    11 INFO: rcv=105 miss=0 boot=1 per=0 m_hop=0 snr=84dBm avg_snr=80dBm
+2    11 INFO: rcv=106 miss=0 boot=1 per=0 m_hop=0 snr=81dBm avg_snr=80dBm
+2    11 INFO: rcv=107 miss=0 boot=1 per=0 m_hop=0 snr=84dBm avg_snr=80dBm
+2    11 INFO: rcv=108 miss=0 boot=1 per=0 m_hop=0 snr=81dBm avg_snr=80dBm
+2    11 INFO: rcv=109 miss=0 boot=1 per=0 m_hop=0 snr=82dBm avg_snr=80dBm
+2    12 INFO: rcv=110 miss=0 boot=1 per=0 m_hop=0 snr=88dBm avg_snr=80dBm
+2    12 INFO: rcv=111 miss=0 boot=1 per=0 m_hop=0 snr=85dBm avg_snr=80dBm
+2    12 INFO: rcv=112 miss=0 boot=1 per=0 m_hop=0 snr=81dBm avg_snr=80dBm
+2    12 INFO: rcv=113 miss=0 boot=1 per=0 m_hop=0 snr=75dBm avg_snr=80dBm
+2    12 INFO: rcv=114 miss=0 boot=1 per=0 m_hop=0 snr=78dBm avg_snr=80dBm
+2    12 INFO: rcv=115 miss=0 boot=1 per=0 m_hop=0 snr=82dBm avg_snr=80dBm
+2    12 INFO: rcv=116 miss=0 boot=1 per=0 m_hop=0 snr=80dBm avg_snr=80dBm
+2    12 INFO: rcv=117 miss=0 boot=1 per=0 m_hop=0 snr=84dBm avg_snr=80dBm
+2    12 INFO: rcv=118 miss=0 boot=1 per=0 m_hop=0 snr=79dBm avg_snr=80dBm
+2    12 INFO: rcv=119 miss=0 boot=1 per=0 m_hop=0 snr=88dBm avg_snr=80dBm
+2    13 INFO: rcv=120 miss=0 boot=1 per=0 m_hop=0 snr=80dBm avg_snr=80dBm
+2    13 INFO: rcv=121 miss=0 boot=1 per=0 m_hop=0 snr=83dBm avg_snr=80dBm
+2    13 INFO: rcv=122 miss=0 boot=1 per=0 m_hop=0 snr=84dBm avg_snr=80dBm
+2    13 INFO: rcv=123 miss=0 boot=1 per=0 m_hop=0 snr=83dBm avg_snr=80dBm
+2    13 INFO: rcv=124 miss=0 boot=1 per=0 m_hop=0 snr=80dBm avg_snr=80dBm
+2    13 INFO: rcv=125 miss=0 boot=1 per=0 m_hop=0 snr=78dBm avg_snr=80dBm
+2    13 INFO: rcv=126 miss=0 boot=1 per=0 m_hop=0 snr=81dBm avg_snr=80dBm
+2    13 INFO: rcv=127 miss=0 boot=1 per=0 m_hop=0 snr=79dBm avg_snr=80dBm
+2    13 INFO: rcv=128 miss=0 boot=1 per=0 m_hop=0 snr=80dBm avg_snr=80dBm
+2    13 INFO: rcv=129 miss=0 boot=1 per=0 m_hop=0 snr=75dBm avg_snr=80dBm
+2    14 INFO: rcv=130 miss=0 boot=1 per=0 m_hop=0 snr=83dBm avg_snr=80dBm
+2    14 INFO: rcv=131 miss=0 boot=1 per=0 m_hop=0 snr=80dBm avg_snr=80dBm
+2    14 INFO: rcv=132 miss=0 boot=1 per=0 m_hop=0 snr=79dBm avg_snr=80dBm
+2    14 INFO: rcv=133 miss=0 boot=1 per=0 m_hop=0 snr=83dBm avg_snr=80dBm
+2    14 INFO: rcv=134 miss=0 boot=1 per=0 m_hop=0 snr=82dBm avg_snr=80dBm
+2    14 INFO: rcv=135 miss=0 boot=1 per=0 m_hop=0 snr=81dBm avg_snr=80dBm
+2    14 INFO: rcv=136 miss=0 boot=1 per=0 m_hop=0 snr=82dBm avg_snr=80dBm
+2    14 INFO: rcv=137 miss=0 boot=1 per=0 m_hop=0 snr=80dBm avg_snr=80dBm
+2    14 INFO: rcv=138 miss=0 boot=1 per=0 m_hop=0 snr=85dBm avg_snr=80dBm
+2    14 INFO: rcv=139 miss=0 boot=1 per=0 m_hop=0 snr=79dBm avg_snr=80dBm
+2    15 INFO: rcv=140 miss=0 boot=1 per=0 m_hop=0 snr=82dBm avg_snr=80dBm
+2    15 INFO: rcv=141 miss=0 boot=1 per=0 m_hop=0 snr=83dBm avg_snr=80dBm
+2    15 INFO: rcv=142 miss=0 boot=1 per=0 m_hop=0 snr=81dBm avg_snr=80dBm
+2    15 INFO: rcv=143 miss=0 boot=1 per=0 m_hop=0 snr=84dBm avg_snr=80dBm
+2    15 INFO: rcv=144 miss=0 boot=1 per=0 m_hop=0 snr=80dBm avg_snr=80dBm
+2    15 INFO: rcv=145 miss=0 boot=1 per=0 m_hop=0 snr=81dBm avg_snr=80dBm
+2    15 INFO: rcv=146 miss=0 boot=1 per=0 m_hop=0 snr=84dBm avg_snr=80dBm
+2    15 INFO: rcv=147 miss=0 boot=1 per=0 m_hop=0 snr=84dBm avg_snr=80dBm
+2    15 INFO: rcv=148 miss=0 boot=1 per=0 m_hop=0 snr=79dBm avg_snr=80dBm
+2    15 INFO: rcv=149 miss=0 boot=1 per=0 m_hop=0 snr=82dBm avg_snr=80dBm
+2    16 INFO: rcv=150 miss=0 boot=1 per=0 m_hop=0 snr=85dBm avg_snr=80dBm
+2    16 INFO: rcv=151 miss=0 boot=1 per=0 m_hop=0 snr=80dBm avg_snr=80dBm
+2    16 INFO: rcv=152 miss=0 boot=1 per=0 m_hop=0 snr=85dBm avg_snr=80dBm
+2    16 INFO: rcv=153 miss=0 boot=1 per=0 m_hop=0 snr=80dBm avg_snr=80dBm
+2    16 INFO: rcv=154 miss=0 boot=1 per=0 m_hop=0 snr=82dBm avg_snr=80dBm
+2    16 INFO: rcv=155 miss=0 boot=1 per=0 m_hop=0 snr=85dBm avg_snr=80dBm
+2    16 INFO: rcv=156 miss=0 boot=1 per=0 m_hop=0 snr=83dBm avg_snr=81dBm
+2    16 INFO: rcv=157 miss=0 boot=1 per=0 m_hop=0 snr=79dBm avg_snr=80dBm
+2    16 INFO: rcv=158 miss=0 boot=1 per=0 m_hop=0 snr=81dBm avg_snr=80dBm
+2    16 INFO: rcv=159 miss=0 boot=1 per=0 m_hop=0 snr=83dBm avg_snr=81dBm
+2    17 INFO: rcv=160 miss=0 boot=1 per=0 m_hop=0 snr=78dBm avg_snr=80dBm
+2    17 INFO: rcv=161 miss=0 boot=1 per=0 m_hop=0 snr=82dBm avg_snr=80dBm
+2    17 INFO: rcv=162 miss=0 boot=1 per=0 m_hop=0 snr=84dBm avg_snr=81dBm
+2    17 INFO: rcv=163 miss=0 boot=1 per=0 m_hop=0 snr=84dBm avg_snr=81dBm
+2    17 INFO: rcv=164 miss=0 boot=1 per=0 m_hop=0 snr=84dBm avg_snr=81dBm
+2    17 INFO: rcv=165 miss=0 boot=1 per=0 m_hop=0 snr=84dBm avg_snr=81dBm
+2    17 INFO: rcv=166 miss=0 boot=1 per=0 m_hop=0 snr=79dBm avg_snr=81dBm
+2    17 INFO: rcv=167 miss=0 boot=1 per=0 m_hop=0 snr=81dBm avg_snr=81dBm
+2    17 INFO: rcv=168 miss=0 boot=1 per=0 m_hop=0 snr=81dBm avg_snr=81dBm
+2    17 INFO: rcv=169 miss=0 boot=1 per=0 m_hop=0 snr=82dBm avg_snr=81dBm
+2    18 INFO: rcv=170 miss=0 boot=1 per=0 m_hop=0 snr=79dBm avg_snr=81dBm
+2    18 INFO: rcv=171 miss=0 boot=1 per=0 m_hop=0 snr=81dBm avg_snr=81dBm
+2    18 INFO: rcv=172 miss=0 boot=1 per=0 m_hop=0 snr=82dBm avg_snr=81dBm
+2    18 INFO: rcv=173 miss=0 boot=1 per=0 m_hop=0 snr=82dBm avg_snr=81dBm
+2    18 INFO: rcv=174 miss=0 boot=1 per=0 m_hop=0 snr=81dBm avg_snr=81dBm
+2    18 INFO: rcv=175 miss=0 boot=1 per=0 m_hop=0 snr=83dBm avg_snr=81dBm
+2    18 INFO: rcv=176 miss=0 boot=1 per=0 m_hop=0 snr=78dBm avg_snr=81dBm
+2    18 INFO: rcv=177 miss=0 boot=1 per=0 m_hop=0 snr=83dBm avg_snr=81dBm
+2    18 INFO: rcv=178 miss=0 boot=1 per=0 m_hop=0 snr=81dBm avg_snr=81dBm
+2    18 INFO: rcv=179 miss=0 boot=1 per=0 m_hop=0 snr=79dBm avg_snr=81dBm
+2    19 INFO: rcv=180 miss=0 boot=1 per=0 m_hop=0 snr=81dBm avg_snr=81dBm
+2    19 INFO: rcv=181 miss=0 boot=1 per=0 m_hop=0 snr=78dBm avg_snr=81dBm
+2    19 INFO: rcv=182 miss=0 boot=1 per=0 m_hop=0 snr=81dBm avg_snr=81dBm
+2    19 INFO: rcv=183 miss=0 boot=1 per=0 m_hop=0 snr=83dBm avg_snr=81dBm
+2    19 INFO: rcv=184 miss=0 boot=1 per=0 m_hop=0 snr=82dBm avg_snr=81dBm
+2    19 INFO: rcv=185 miss=0 boot=1 per=0 m_hop=0 snr=78dBm avg_snr=81dBm
+2    19 INFO: rcv=186 miss=0 boot=1 per=0 m_hop=0 snr=86dBm avg_snr=81dBm
+2    19 INFO: rcv=187 miss=0 boot=1 per=0 m_hop=0 snr=83dBm avg_snr=81dBm
+2    19 INFO: rcv=188 miss=0 boot=1 per=0 m_hop=0 snr=81dBm avg_snr=81dBm
+2    19 INFO: rcv=189 miss=0 boot=1 per=0 m_hop=0 snr=83dBm avg_snr=81dBm
+2    20 INFO: rcv=190 miss=0 boot=1 per=0 m_hop=0 snr=81dBm avg_snr=81dBm
+2    20 INFO: rcv=191 miss=0 boot=1 per=0 m_hop=0 snr=81dBm avg_snr=81dBm
+2    20 INFO: rcv=192 miss=0 boot=1 per=0 m_hop=0 snr=82dBm avg_snr=81dBm
+2    20 INFO: rcv=193 miss=0 boot=1 per=0 m_hop=0 snr=83dBm avg_snr=81dBm
+2    20 INFO: rcv=194 miss=0 boot=1 per=0 m_hop=0 snr=82dBm avg_snr=81dBm
+2    20 INFO: rcv=195 miss=0 boot=1 per=0 m_hop=0 snr=79dBm avg_snr=81dBm
+2    20 INFO: rcv=196 miss=0 boot=1 per=0 m_hop=0 snr=78dBm avg_snr=81dBm
+2    20 INFO: rcv=197 miss=0 boot=1 per=0 m_hop=0 snr=78dBm avg_snr=81dBm
+2    20 INFO: rcv=198 miss=0 boot=1 per=0 m_hop=0 snr=81dBm avg_snr=81dBm
+2    20 INFO: rcv=199 miss=0 boot=1 per=0 m_hop=0 snr=78dBm avg_snr=81dBm
+2    21 INFO: rcv=200 miss=0 boot=1 per=0 m_hop=0 snr=82dBm avg_snr=81dBm
+2    21 INFO: rcv=201 miss=0 boot=1 per=0 m_hop=0 snr=80dBm avg_snr=81dBm
+2    21 INFO: rcv=202 miss=0 boot=1 per=0 m_hop=0 snr=78dBm avg_snr=81dBm
+2    21 INFO: rcv=203 miss=0 boot=1 per=0 m_hop=0 snr=82dBm avg_snr=81dBm
+2    21 INFO: rcv=204 miss=0 boot=1 per=0 m_hop=0 snr=82dBm avg_snr=81dBm
+2    21 INFO: rcv=205 miss=0 boot=1 per=9 m_hop=0 snr=81dBm avg_snr=81dBm
+2    21 INFO: rcv=206 miss=0 boot=1 per=9 m_hop=0 snr=81dBm avg_snr=81dBm
+2    21 INFO: rcv=207 miss=0 boot=1 per=9 m_hop=0 snr=83dBm avg_snr=81dBm
+2    21 INFO: rcv=208 miss=0 boot=1 per=9 m_hop=0 snr=78dBm avg_snr=81dBm
+2    21 INFO: rcv=209 miss=0 boot=1 per=9 m_hop=0 snr=79dBm avg_snr=81dBm
+2    22 INFO: rcv=210 miss=0 boot=1 per=9 m_hop=0 snr=84dBm avg_snr=81dBm
+2    22 INFO: rcv=211 miss=0 boot=1 per=9 m_hop=0 snr=79dBm avg_snr=81dBm
+2    22 INFO: rcv=212 miss=0 boot=1 per=8 m_hop=0 snr=83dBm avg_snr=81dBm
+2    22 INFO: rcv=213 miss=0 boot=1 per=8 m_hop=0 snr=80dBm avg_snr=81dBm
+2    22 INFO: rcv=214 miss=0 boot=1 per=8 m_hop=0 snr=83dBm avg_snr=81dBm
+2    22 INFO: rcv=215 miss=0 boot=1 per=8 m_hop=0 snr=81dBm avg_snr=81dBm
+2    22 INFO: rcv=216 miss=0 boot=1 per=8 m_hop=0 snr=81dBm avg_snr=81dBm
+2    22 INFO: rcv=217 miss=0 boot=1 per=8 m_hop=0 snr=80dBm avg_snr=81dBm
+2    22 INFO: rcv=218 miss=0 boot=1 per=8 m_hop=0 snr=82dBm avg_snr=81dBm
+2    22 INFO: rcv=219 miss=0 boot=1 per=8 m_hop=0 snr=78dBm avg_snr=81dBm
+2    23 INFO: rcv=220 miss=0 boot=1 per=8 m_hop=0 snr=78dBm avg_snr=81dBm
+2    23 INFO: rcv=221 miss=0 boot=1 per=8 m_hop=0 snr=81dBm avg_snr=81dBm
+2    23 INFO: rcv=222 miss=0 boot=1 per=8 m_hop=0 snr=81dBm avg_snr=81dBm
+2    23 INFO: rcv=223 miss=0 boot=1 per=8 m_hop=0 snr=79dBm avg_snr=81dBm
+2    23 INFO: rcv=224 miss=0 boot=1 per=8 m_hop=0 snr=79dBm avg_snr=80dBm
+2    23 INFO: rcv=225 miss=0 boot=1 per=8 m_hop=0 snr=81dBm avg_snr=80dBm
+2    23 INFO: rcv=226 miss=0 boot=1 per=8 m_hop=0 snr=78dBm avg_snr=80dBm
+2    23 INFO: rcv=227 miss=0 boot=1 per=8 m_hop=0 snr=85dBm avg_snr=80dBm
+2    23 INFO: rcv=228 miss=0 boot=1 per=8 m_hop=0 snr=79dBm avg_snr=80dBm
+2    23 INFO: rcv=229 miss=0 boot=1 per=8 m_hop=0 snr=78dBm avg_snr=80dBm
+2    24 INFO: rcv=230 miss=0 boot=1 per=8 m_hop=0 snr=81dBm avg_snr=80dBm
+2    24 INFO: rcv=231 miss=0 boot=1 per=8 m_hop=0 snr=77dBm avg_snr=80dBm
+2    24 INFO: rcv=232 miss=0 boot=1 per=8 m_hop=0 snr=77dBm avg_snr=80dBm
+2    24 INFO: rcv=233 miss=0 boot=1 per=8 m_hop=0 snr=75dBm avg_snr=80dBm
+2    24 INFO: rcv=234 miss=0 boot=1 per=8 m_hop=0 snr=76dBm avg_snr=80dBm
+2    24 INFO: rcv=235 miss=0 boot=1 per=8 m_hop=0 snr=80dBm avg_snr=80dBm
+2    24 INFO: rcv=236 miss=0 boot=1 per=8 m_hop=0 snr=80dBm avg_snr=80dBm
+2    24 INFO: rcv=237 miss=0 boot=1 per=8 m_hop=0 snr=81dBm avg_snr=80dBm
+2    24 INFO: rcv=238 miss=0 boot=1 per=8 m_hop=0 snr=80dBm avg_snr=80dBm
+2    24 INFO: rcv=239 miss=0 boot=1 per=8 m_hop=0 snr=80dBm avg_snr=80dBm
+2    25 INFO: rcv=240 miss=0 boot=1 per=8 m_hop=0 snr=84dBm avg_snr=80dBm
+2    25 INFO: rcv=241 miss=0 boot=1 per=8 m_hop=0 snr=81dBm avg_snr=80dBm
+2    25 INFO: rcv=242 miss=0 boot=1 per=7 m_hop=0 snr=79dBm avg_snr=80dBm
+2    25 INFO: rcv=243 miss=0 boot=1 per=7 m_hop=0 snr=79dBm avg_snr=80dBm
+2    25 INFO: rcv=244 miss=0 boot=1 per=7 m_hop=0 snr=80dBm avg_snr=80dBm
+2    25 INFO: rcv=245 miss=0 boot=1 per=7 m_hop=0 snr=77dBm avg_snr=80dBm
+2    25 INFO: rcv=246 miss=0 boot=1 per=7 m_hop=0 snr=78dBm avg_snr=80dBm
+2    25 INFO: rcv=247 miss=0 boot=1 per=7 m_hop=0 snr=75dBm avg_snr=80dBm
+2    25 INFO: rcv=248 miss=0 boot=1 per=7 m_hop=0 snr=79dBm avg_snr=80dBm
+2    25 INFO: rcv=249 miss=0 boot=1 per=7 m_hop=0 snr=82dBm avg_snr=80dBm
+2    26 INFO: rcv=250 miss=0 boot=1 per=7 m_hop=0 snr=84dBm avg_snr=80dBm
+2    26 INFO: rcv=251 miss=0 boot=1 per=7 m_hop=0 snr=80dBm avg_snr=80dBm
+2    26 INFO: rcv=252 miss=0 boot=1 per=7 m_hop=0 snr=83dBm avg_snr=80dBm
+2    26 INFO: rcv=253 miss=0 boot=1 per=7 m_hop=0 snr=80dBm avg_snr=80dBm
+2    26 INFO: rcv=254 miss=0 boot=1 per=7 m_hop=0 snr=83dBm avg_snr=80dBm
+2    26 INFO: rcv=255 miss=0 boot=1 per=7 m_hop=0 snr=81dBm avg_snr=80dBm
+2    26 INFO: rcv=256 miss=0 boot=1 per=7 m_hop=0 snr=77dBm avg_snr=80dBm
+2    26 INFO: rcv=257 miss=0 boot=1 per=7 m_hop=0 snr=80dBm avg_snr=80dBm
+2    26 INFO: rcv=258 miss=0 boot=1 per=7 m_hop=0 snr=76dBm avg_snr=80dBm
+2    26 INFO: rcv=259 miss=0 boot=1 per=7 m_hop=0 snr=85dBm avg_snr=80dBm
+2    27 INFO: rcv=260 miss=0 boot=1 per=7 m_hop=0 snr=81dBm avg_snr=80dBm
+2    27 INFO: rcv=261 miss=0 boot=1 per=7 m_hop=0 snr=79dBm avg_snr=80dBm
